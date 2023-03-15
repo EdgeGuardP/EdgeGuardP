@@ -10,4 +10,21 @@ Potentially Unwanted Programs: Some software programs, such as adware or toolbar
 User Error: It is also possible that the file was infected with a virus or malware, but the user may not be aware of it. In this case, Windows Defender is simply doing its job by detecting and removing the threat.
 If you are experiencing issues with Windows Defender flagging non-virus files, GOOD NEWS!,  You Can Use EDGE GUARD, Which is Updating All The Time, And Help You To Manage this Problem.
 
+
+(Edge Guard)
+- Auto Update
+- Strong XOR Encryption
+- Supports .NET/Native
+- Output : Fully Native
+- Features : Not Yet, Beta Release.
+
+If you have a question mark in your mind, you can contact me telegram : @edgeguard
+
+This video is for educational purpose only.
+-------------------------------------------------------------------
+This Tool is Designed To Protect Your Files
+Against Reverse-Engineers.
+This Tool Shouldn't Be Used For Malicous Purposes
+If You're Going to Use It As Malicous, You Bear The Full Responsibility.
+
 ![Untitled-1](https://user-images.githubusercontent.com/127977328/225380919-607a23ed-cf64-4c92-8975-884c6dbd49fa.jpg)
