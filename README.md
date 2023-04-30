@@ -30,7 +30,7 @@ This Tool Shouldn't Be Used For Malicous Purposes
 If You're Going to Use It As Malicous, You Bear The Full Responsibility.
 
 [ ESET Endpoint Security ]
-[![Watch the video](https://i.ibb.co/zPg9QYh/desktop-wallpaper-best-5-eset-on-hip-eset.jpg)](https://www.youtube.com/watch?v=iSYUENs81Q4)
+[![Watch the video](https://i.ibb.co/6X5mymR/ESET-promotes-Parvinder-Walia-to-President-of-Asia-Pacific-Japan.jpg)](https://www.youtube.com/watch?v=iSYUENs81Q4)
 
 
 [ BitDefender Antivirus ]
