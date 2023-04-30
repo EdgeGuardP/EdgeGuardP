@@ -32,4 +32,14 @@ If You're Going to Use It As Malicous, You Bear The Full Responsibility.
 [ ESET Endpoint Security ]
 [![Watch the video](https://i.ibb.co/zPg9QYh/desktop-wallpaper-best-5-eset-on-hip-eset.jpg)](https://www.youtube.com/watch?v=iSYUENs81Q4)
 
+
+[ BitDefender Antivirus ]
+[![Watch the video](https://i.ibb.co/cFFztrP/rxIZX4.jpg)](https://www.youtube.com/watch?v=xIa1G-lAnWw)
+
+
+[ MCAfee Endpoint Security ]
+[![Watch the video](https://i.ibb.co/Q83hxM6/desktop-wallpaper-mcafee-completes-skyhigh-networks-cloud-security.jpg)](https://www.youtube.com/watch?v=XS-y3-PJI8g)
+
+
+
 ![Untitled-1](https://user-images.githubusercontent.com/127977328/225380919-607a23ed-cf64-4c92-8975-884c6dbd49fa.jpg)
