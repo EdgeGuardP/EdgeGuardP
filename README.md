@@ -13,12 +13,24 @@ User Error: It is also possible that the file was infected with a virus or malwa
 If you are experiencing issues with Windows Defender flagging non-virus files, GOOD NEWS!,  You Can Use EDGE GUARD, Which is Updating All The Time, And Help You To Manage this Problem.
 
 
-(Edge Guard)
-- Auto Update
-- Strong XOR Encryption
-- Supports Only Native Files [ Like Remcos RAT ]
-- Output : Fully Native
-- Features : Not Yet, Beta Release.
+
+---
+
+## Features
+
+| Feature/OS      | Windows | 
+|-----------------|---------|
+| Private Stub Coded From Scratch [ C/Golang ] | ✔ | 
+| Auto Update  | ✔ | 
+| Strong XOR Encryption / AES | ✔ | 
+| Supports Native Files Only. [ Like Remcos RAT ]   | ✔  | 
+| Startup   | ✔ |
+| AntiMemoryScan   | ✔ | 
+| Bypass Avast Sandbox | ✔ | 
+| More.  | ✔ |
+
+
+---
 
 If you have a question mark in your mind, you can contact me telegram : @edgeguard
 
